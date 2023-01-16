@@ -1,4 +1,4 @@
-This project is made using React Js and Chakra Ui.
+A project utilizing ReactJs and its component library, Chakra UI, was developed with an API-based approach. It enables users to not only track the real-time pricing of various cryptocurrency options, but also provides a list of top coin exchanges.
 
 # Link to Website
 https://crypto-exchange-react-app.vercel.app/
