@@ -5,3 +5,5 @@ https://crypto-exchange-react-app.vercel.app/
 
 ## Screenshot of Website
 ![CryptoExchangeApp](https://user-images.githubusercontent.com/105537793/212306398-1afda3a6-7a87-4073-991e-96944efbf040.png)
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=1&theme=merko&line1=react,react,61DAFB;chakra-ui,chakra-ui,319795;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=1&theme=merko&line1=react,react,61DAFB;chakra-ui,chakra-ui,319795;)
